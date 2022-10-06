@@ -71,9 +71,7 @@ class HomeScreen extends StatelessWidget {
                           fontWeight: FontWeight.w700,
                           color: Color.fromARGB(255, 22, 29, 66)),
                     ),
-                    // subtitle: Text(
-                    //     'A sufficiently long subtitle warrants three lines.'),
-                    // isThreeLine: true,
+                   
                     onTap: () {
                       // final Uri _url = Uri.parse('https://www.linkedin.com/');
                       // _launchUrl(_url);
